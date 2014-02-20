@@ -1,0 +1,49 @@
+body {
+  margin: 0 0 0 0;
+  background: #ef2b2d;
+} 
+
+h1 {
+  font-family: 'Gabriela', serif;
+  font-weight: 300;
+  color: #4a4f52;
+  text-align: center;
+  position: relative;
+  right: 50px;
+  margin: 50px 0 0 110px;
+  padding: 30px 0 50px 0;
+}
+
+.nameBox {
+  width: 100%;
+  background: #fff;
+  padding-bottom: 80px;
+  border: 1px solid #ccc;
+  margin: 0 auto;
+}
+
+#name {
+  text-align: center;
+  height: 60px;
+  padding-top: 100px;
+  font-family: 'Varela Round', sans-serif;
+  color: #4a4f52;
+  font-size: 1.5em;
+}
+
+#btn {
+  position: relative;
+  top: 100px;
+  left: 620px;
+  background: pink;
+  border-radius: 5px;
+  padding: 10px 15px;
+  text-transform: capitalize;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.filler {
+  height: 300px;
+}
